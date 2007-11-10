@@ -1,0 +1,17 @@
+#summary System Rquirements
+#labels Phase-Deploy,Phase-Support
+
+= Required =
+
+  * .NET Framework 2.0
+  * Windows 98 Or Higher
+  * 12 MB Of RAM
+  * 64 KB Of Disk Space
+
+= Recommended =
+
+  * .NET Framework 2.0
+  * Windows 2000/XP/Vista (Me and 98 do not support unicode)
+  * 20 MB Of RAM
+  * 400 KB Of Disk Space
+  * Microsoft Visual C# 2005 Express Edition
