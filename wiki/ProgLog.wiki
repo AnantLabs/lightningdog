@@ -1,5 +1,5 @@
 #summary Changelog
-#labels Phase-Design,Phase-Implementation,Phase-QA
+#labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
 =1.15=
   * Highlighting
