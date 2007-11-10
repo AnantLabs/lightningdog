@@ -1,0 +1,10 @@
+#summary Changelog
+#labels Phase-Design,Phase-Implementation,Phase-QA
+
+=1.15=
+  * Highlighting
+  * Date And Time Insertion
+  * Customizable UI
+
+=1.1=
+  * First Public Release
