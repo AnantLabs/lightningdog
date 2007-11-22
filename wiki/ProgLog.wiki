@@ -1,6 +1,10 @@
 #summary Changelog
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.2=
+  * Inline Find!
+  * Export To Plain Or Unicode Text
+
 =1.15=
   * Highlighting
   * Date And Time Insertion
