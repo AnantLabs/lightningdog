@@ -1,0 +1,10 @@
+#summary The Future
+#labels Phase-Requirements,Phase-Design,Phase-Implementation
+
+= 1.25 = 
+  * Context Menu
+  * Toolbar
+  * Windows Vista like UI
+
+= 1.26 =
+  * Fixes A Glitch In Inline Find
