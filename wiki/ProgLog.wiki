@@ -1,5 +1,11 @@
-#summary Changelog
+#summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
+
+=1.26=
+  * Office 2007 style toolbars
+  * Information bar
+  * More friendly to the disabled
+  * Simple New Document Function
 
 =1.21=
   * Implemented Export To Plain Text (*WARNING*: Unicode is not supported with Exporting To Plain Text)
