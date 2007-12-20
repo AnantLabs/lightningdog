@@ -7,6 +7,10 @@
   * More friendly to the disabled
   * Simple New Document Function
 
+==1.26 R2==
+  * Open as Plain Text Introduced
+  * New Installer
+
 =1.21=
   * Implemented Export To Plain Text (*WARNING*: Unicode is not supported with Exporting To Plain Text)
   * WordPad Like UI with Word Docking Toolbars
@@ -15,7 +19,7 @@
 
 =1.2=
   * Inline Find!
-  * Export To Plain Or Unicode Text
+  * Export To Plain Text
 
 =1.15=
   * Highlighting
