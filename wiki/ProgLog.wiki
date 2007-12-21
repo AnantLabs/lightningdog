@@ -1,6 +1,10 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.27
+  * Document Characters Stats on Status Bar
+  * Updated Source Code
+
 =1.26=
   * Office 2007 style toolbars
   * Information bar
