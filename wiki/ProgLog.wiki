@@ -1,6 +1,10 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.28=
+  * New Windows Vista Icons from glyFX
+  * Prevents installer from running on Windows 95 Or Windows NT 4
+
 =1.27=
   * Document Characters Stats on Status Bar
   * Updated Source Code
