@@ -1,6 +1,9 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.29=
+  * UI Improvements
+
 =1.28=
   * New Windows Vista Icons from glyFX
   * Prevents installer from running on Windows 95 Or Windows NT 4
@@ -22,7 +25,7 @@
 =1.21=
   * Implemented Export To Plain Text (*WARNING*: Unicode is not supported with Exporting To Plain Text)
   * WordPad Like UI with Word Docking Toolbars
-  * Glitch In Inline Find
+  * Found Glitch In Inline Find
   * Fixed A Bug Which Made Lightningdog Crash In Windows Vista If The EXE Was Ran From IE Temporary Files
 
 =1.2=
