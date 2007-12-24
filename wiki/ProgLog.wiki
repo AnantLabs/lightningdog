@@ -1,6 +1,9 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.3=
+  * Experimental Skinning
+
 =1.29=
   * UI Improvements
 
