@@ -1,6 +1,10 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.33=
+  * Squashed a big bug
+  * Documented code
+
 =1.32=
   * Fixed bug
   * Insertion of Images
