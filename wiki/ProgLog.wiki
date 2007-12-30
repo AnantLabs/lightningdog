@@ -1,6 +1,9 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.34=
+  * UI changes
+
 =1.33=
   * Squashed a big bug
   * Documented code
