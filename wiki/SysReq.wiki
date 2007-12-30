@@ -10,8 +10,8 @@
 
 = Recommended =
 
-  * .NET Framework 2.0
-  * Windows 2000/XP/Vista (Me and 98 do not support Unicode)
+  * .NET Framework 2.0 and 3.5
+  * Windows XP/Vista
   * 20 MB Of RAM
-  * 3 MB KB Of Free Disk Space
-  * Microsoft Visual C# 2005 Express Edition
+  * 3 MB Of Free Disk Space
+  * Microsoft Visual C# 2005 and 2008 Express Edition
