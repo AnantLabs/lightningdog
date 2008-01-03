@@ -14,4 +14,4 @@
   * Windows XP/Vista
   * 20 MB Of RAM
   * 3 MB Of Free Disk Space
-  * Microsoft Visual C# 2005 and 2008 Express Edition
+  * Microsoft Visual C# 2005 Express Edition
