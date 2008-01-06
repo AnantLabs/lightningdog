@@ -1,6 +1,12 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.36=
+  * A new skin, designed for Vista
+  * OS default UI by default.
+  * Replace feature
+  * Help menu is at Vista's semi-typical location
+
 =1.35=
   * Newer Icons
 
