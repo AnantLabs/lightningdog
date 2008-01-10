@@ -1,0 +1,17 @@
+#summary How to add Windows 98 support
+#labels Phase-Support,Phase-Implementation,Phase-Design
+
+= Why not? = 
+  * Instability
+  * Age
+  * Usage
+  * Not modern
+
+= How? = 
+  # Open up the extracted project in Visual C# 2005
+  # Remove skinning
+  # Remove the Krypton Controls
+  # Set all the ToolStrips RenderMode to System
+  # Change the form's inhertance to {{{Form}}}.
+  # Remove all references to Krypton.
+  # Compile.
