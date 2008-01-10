@@ -1,6 +1,12 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.37=
+  * Complete rewrite of the skin engine and finalized.
+  * Now uses the controls from Krypton Toolkit 2.7.1 (install that first!)
+  * Headings
+  * Windows 98 support removed (but can be added by removing all references to Krypton Toolkit)
+
 =1.36=
   * A new skin, designed for Vista
   * OS default UI by default.
