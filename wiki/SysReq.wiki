@@ -6,8 +6,8 @@
   * .NET Framework 2.0
   * Windows 2000 or higher (except Me)
   * 10 MB Of RAM
-  * 2.5 MB Of Free Disk Space
-  * Krypton Toolkit 2.7.1 and higher
+  * 2.7 MB Of Free Disk Space
+  * Krypton Toolkit 2.7.1 or higher
 
 = Recommended =
 
