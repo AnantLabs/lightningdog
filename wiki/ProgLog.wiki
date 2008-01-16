@@ -1,6 +1,11 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.39=
+   * Nicer setup icon
+   * More Keyboard shortcuts
+   * More commented code
+
 =1.38=
   * WYSIWYG Printing (w00t!)
   * Office 2003 skin
