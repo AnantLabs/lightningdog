@@ -1,6 +1,10 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.40=
+  * Non-destructive insertion of images
+  * Combine two documents
+
 =1.39=
    * Nicer setup icon
    * More Keyboard shortcuts
