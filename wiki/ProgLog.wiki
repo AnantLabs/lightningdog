@@ -4,6 +4,7 @@
 =1.40=
   * Non-destructive insertion of images
   * Combine two documents
+  * To trim down size, the source code is seprated from the binary.
 
 =1.39=
    * Nicer setup icon
