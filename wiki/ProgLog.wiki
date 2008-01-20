@@ -3,7 +3,8 @@
 
 =1.40=
   * Non-destructive insertion of images
-  * Combine two documents
+  * Combine two documents (disabled due to glitches)
+  * Text to Speech, using SAPI 5.1/5.3
   * To trim down size, the source code is seprated from the binary.
 
 =1.39=
