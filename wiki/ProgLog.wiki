@@ -1,6 +1,11 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.41=
+  * MDI!
+  * Zoom in.
+  * Reveal codes. (I know some people still use pre-Windows WordPerfect!)
+
 =1.40=
   * Non-destructive insertion of images
   * Combine two documents (disabled due to glitches)
