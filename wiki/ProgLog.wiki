@@ -6,11 +6,17 @@
   * Zoom in.
   * Reveal codes. (I know some people still use pre-Windows WordPerfect!)
 
+==1.41 R2==
+  * New Visual Studio skin
+  * Subscript/Superscript
+  * More toolbar icons
+  * Arrange MDI windows
+
 =1.40=
   * Non-destructive insertion of images
   * Combine two documents (disabled due to glitches)
   * Text to Speech, using SAPI 5.1/5.3
-  * To trim down size, the source code is seprated from the binary.
+  * To trim down size, the source code is separated from the binary.
 
 =1.39=
    * Nicer setup icon
@@ -26,7 +32,7 @@
   * Complete rewrite of the skin engine and finalized.
   * Now uses the controls from Krypton Toolkit 2.7.1 (install that first!)
   * Headings
-  * Windows 98 _and_ Me support removed (but can be added by removing all references to Krypton Toolkit)
+  * Windows 98 _and_ Me support removed (but can be added by removing all references to Krypton Toolkit, see article Win98)
 
 =1.36=
   * A new skin, designed for Vista
