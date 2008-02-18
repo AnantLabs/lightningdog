@@ -8,6 +8,7 @@
   * 10 MB Of RAM
   * 5.5 MB Of Free Disk Space
   * Krypton Toolkit 2.7.1 or higher
+  * A PDF viewer
 
 = Recommended =
 
@@ -17,3 +18,4 @@
   * 6 MB Of Free Disk Space
   * Microsoft Visual C# 2005 Express Edition
   * Krypton Toolkit 2.7.1 or higher
+  * Adobe Reader 8.0+
