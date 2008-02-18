@@ -1,6 +1,11 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.42=
+  * PDF creation!
+  * New researcher source
+  * Minor improvements to MDI
+
 =1.41=
   * MDI!
   * Zoom in.
