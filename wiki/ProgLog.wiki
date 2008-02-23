@@ -1,6 +1,13 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
+=1.43 (having problems with upload)=
+  * Now uses .NET 3.5
+  * Improvements to speech
+  * Insert Contact Information
+  * More icons!
+  * About box
+
 =1.42=
   * PDF creation!
   * New researcher source
