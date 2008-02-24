@@ -8,10 +8,4 @@
   * Not modern
 
 = How? = 
-  # Open up the extracted project in Visual C# 2005
-  # Remove skinning
-  # Remove the Krypton Controls
-  # Set all the ToolStrips RenderMode to System
-  # Change the form's inhertance to {{{Form}}}.
-  # Remove all references to Krypton.
-  # Compile.
+  Since 1.43, Windows 98, Me, and 2000 support was scrapped due to the reliance on .NET 3.5.
