@@ -1,7 +1,7 @@
 #summary Change log
 #labels Phase-Design,Phase-Implementation,Phase-QA,Featured
 
-=1.5
+=1.5=
   * Fixed bugs
   * Spell checker using NetSpell engine
 
