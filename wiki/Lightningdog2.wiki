@@ -5,6 +5,7 @@
 
  * Still uses .NET 3.5
  * More lightweight
+ * Better looking
  * Behaves more like a native Windows App.
 
 = Status =
