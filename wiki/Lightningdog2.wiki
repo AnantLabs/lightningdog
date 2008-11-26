@@ -1,0 +1,12 @@
+#summary Planning for 2.0
+#labels Phase-Design,Phase-Requirements,Phase-Support,Phase-Implementation,Phase-QA
+
+= Introduction =
+
+ * Still uses .NET 3.5
+ * More lightweight
+ * Behaves more like a native Windows App.
+
+= Status =
+
+ * Does nothing but show UI
