@@ -1,13 +1,4 @@
 #summary Planning for 2.0
 #labels Phase-Design,Phase-Requirements,Phase-Support,Phase-Implementation,Phase-QA
 
-= Introduction =
-
- * Still uses .NET 3.5
- * More lightweight
- * Better looking
- * Behaves more like a native Windows App.
-
-= Status =
-
- * Does nothing but show UI
+The new release will use GTK and Mono for Linux compatibility.
