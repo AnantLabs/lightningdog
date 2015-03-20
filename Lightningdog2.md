@@ -1,0 +1,1 @@
+The new release will use GTK and Mono for Linux compatibility.

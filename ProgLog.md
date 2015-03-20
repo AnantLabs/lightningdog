@@ -1,0 +1,117 @@
+# 1.51 #
+  * MORE Keyboard shortcuts
+  * Tabbed documents/MDI hybrid
+
+# 1.5 #
+  * Fixed bugs
+  * Spell checker using NetSpell engine
+
+# 1.43 #
+  * Now uses .NET 3.5
+  * Improvements to speech
+  * Insert Contact Information
+  * More icons!
+  * About box
+
+# 1.42 #
+  * PDF creation!
+  * New researcher source
+  * Minor improvements to MDI
+
+# 1.41 #
+  * MDI!
+  * Zoom in.
+  * Reveal codes. (I know some people still use pre-Windows WordPerfect!)
+
+## 1.41 [R2](https://code.google.com/p/lightningdog/source/detail?r=2) ##
+  * New Visual Studio skin
+  * Subscript/Superscript
+  * More toolbar icons
+  * Arrange MDI windows
+
+# 1.40 #
+  * Non-destructive insertion of images
+  * Combine two documents (disabled due to glitches)
+  * Text to Speech, using SAPI 5.1/5.3
+  * To trim down size, the source code is separated from the binary.
+
+# 1.39 #
+  * Nicer setup icon
+  * More Keyboard shortcuts
+  * More commented code
+
+# 1.38 #
+  * WYSIWYG Printing (w00t!)
+  * Office 2003 skin
+  * Extra headings
+
+# 1.37 #
+  * Complete rewrite of the skin engine and finalized.
+  * Now uses the controls from Krypton Toolkit 2.7.1 (install that first!)
+  * Headings
+  * Windows 98 _and_ Me support removed (but can be added by removing all references to Krypton Toolkit, see article Win98)
+
+# 1.36 #
+  * A new skin, designed for Vista
+  * OS default UI by default.
+  * Replace feature
+  * Help menu is at Vista's semi-typical location
+
+# 1.35 #
+  * Newer Icons
+
+# 1.34 #
+  * UI changes
+
+# 1.33 #
+  * Squashed a big bug (the Inline Find one)
+  * Documented code
+
+# 1.32 #
+  * Fixed bug of Researcher
+  * Insertion of Images
+
+# 1.31 #
+  * Researching tool
+
+# 1.3 #
+  * Experimental Skinning
+
+# 1.29 #
+  * UI Improvements
+
+# 1.28 #
+  * New Windows Vista Icons from glyFX
+  * Prevents installer from running on Windows 95 Or Windows NT 4
+
+# 1.27 #
+  * Document Characters Stats on Status Bar
+  * Updated Source Code
+
+# 1.26 #
+  * Office 2007 style toolbars
+  * Information bar
+  * More friendly to the disabled
+  * Simple New Document Function
+
+## 1.26 [R2](https://code.google.com/p/lightningdog/source/detail?r=2) ##
+  * Open as Plain Text Introduced
+  * New Installer
+
+# 1.21 #
+  * Implemented Export To Plain Text (**WARNING**: Unicode is not supported with Exporting To Plain Text)
+  * WordPad Like UI with Word Docking Toolbars
+  * Found Glitch In Inline Find
+  * Fixed A Bug Which Made Lightningdog Crash In Windows Vista If The EXE Was Ran From IE Temporary Files
+
+# 1.2 #
+  * Inline Find!
+  * Export To Plain Text
+
+# 1.15 #
+  * Highlighting
+  * Date And Time Insertion
+  * Customizable UI
+
+# 1.1 #
+  * First Public Release

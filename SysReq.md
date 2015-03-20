@@ -1,0 +1,18 @@
+# Required #
+
+  * .NET Framework 3.5
+  * Windows XP SP2 or Vista
+  * 10 MB Of RAM
+  * 5.5 MB Of Free Disk Space
+  * Krypton Toolkit 2.7.1 or higher
+  * A PDF viewer
+
+# Recommended #
+
+  * .NET Framework 3.5
+  * Windows XP SP2/Vista
+  * 15 MB Of RAM
+  * 6 MB Of Free Disk Space
+  * Microsoft Visual C# 2008 Express Edition
+  * Krypton Toolkit 2.7.1 or higher
+  * Adobe Reader 8.0+
